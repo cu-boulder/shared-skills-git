@@ -22,10 +22,19 @@ This repository is designed to teach the use of github for collaboration, commun
 3. I use my personal Github account to share code that I think might be useful to others.  The examples below show projects that have comments, issues, and have been used by other people.  I posted a project for visualing the output from a kind of neural network [here](https://github.com/geoss/som_visualization_r).  That public repository attracted some conversation [here](https://github.com/geoss/som_visualization_r/issues?q=).  At one point recently the code broke and some guy in the Netherlands fixed it.  by clicking on number next to the fork symbol I can see who has been using the code. 
 
 
-## Do Stuff
+## Do Stuff - Part 1
 1.  In github desktop create a "clone" of this repository.  This creates a local copy (i.e. on you computer) of the files stored online in github.  To do this use the enter `cu-boulder/shared-skills-git` into github desktop as demonstrated in the video below.
-2.  In visual studio code open the 
-# Workflow
+![demo](./images/clone-using-github-desktop.gif)
+2.  In visual studio code open the folder called `shared-skills-git.`  Navigate to the "your-docs" folder.  Create a new file called "*your-name*.md".  The "md" extenssion stands for markdown which is a simple way to write formatted documents.
+3.  Practice writing some markdown:
+  * Begin your document with the line `# your name`
+  * On the next line write your hometown, place this in italics using the '*' symbol.  For me its, `\*New York, NY\*`
+  * On the next line create a bulleted list of your three favorite foods.  How do you make a bulleted list in markdown?  See a quick tutorial [here](https://guides.github.com/features/mastering-markdown/).
+  * Markdown is really useful, simple editor.  I wrote [an entire book with some friends using Markdown](https://www.amazon.com/Urban-Analytics-Spatial-Gis/dp/1473958636).
+  * For an example see **sethspielman.md** in the folder.
+4. Once you've completed the file, follow the add>committ>push workflow to add it to the online repository.
+
+## Do Stuff - Part 2
 
 1. Clone the github repo
 2. Create a new branch called lastname_firstname (e.g. dylan_bob)
