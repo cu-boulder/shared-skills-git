@@ -23,6 +23,8 @@ This repository is designed to teach the use of github for collaboration, commun
 
 
 ## Do Stuff
+1.  In github desktop create a "clone" of this repository.  This creates a local copy (i.e. on you computer) of the files stored online in github.
+2.  In visual studio code open the 
 # Workflow
 
 1. Clone the github repo
