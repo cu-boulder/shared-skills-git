@@ -18,6 +18,44 @@ This repository is designed to teach the use of github for collaboration, commun
   * https://github.com/MIT-IR: MIT IR, not much thats useful
   * https://github.com/nietsnel/institutional-research: An older repo explaining the value of R for an IR team
   * https://github.com/owid/covid-19-data/tree/master/public/data COVID-19 Data
-2. My personal github account is somethign I use to share code that I think might be useful to others.  The examples below show projects that have comments, issues, and have been used by other people.   
-  * In my personal github account I posted a project for visualing the output from a kind of neural network [here](https://github.com/geoss/som_visualization_r).  That public repository attracted some conversation [here](https://github.com/geoss/som_visualization_r/issues?q=).  At one point recently the code broke and some guy in the Netherlands fixed it.
-  * An example of a tool I made to process census data [here](https://github.com/geoss/censumander).  It has a bug and needs to be updated, and the issues reflect this.
+2. Somebody with the handle jbryer crearted a R library for downloading data from IPEDS.  The code is [here](https://github.com/jbryer/ipeds), if you look at the issues you'll see a few people have run into a problems and has asked for help.
+3. I use my personal Github account to share code that I think might be useful to others.  The examples below show projects that have comments, issues, and have been used by other people.  I posted a project for visualing the output from a kind of neural network [here](https://github.com/geoss/som_visualization_r).  That public repository attracted some conversation [here](https://github.com/geoss/som_visualization_r/issues?q=).  At one point recently the code broke and some guy in the Netherlands fixed it.  by clicking on number next to the fork symbol I can see who has been using the code. 
+
+
+## Do Stuff
+# Workflow
+
+1. Clone the github repo
+2. Create a new branch called lastname_firstname (e.g. dylan_bob)
+3. Edit the readme file by 1) answering the questions directly below your name and 2) removing your name from the Up Next List.
+4. Commit and push the changes to personally named branch (e.g. dylan_bob)
+5. Create a pull request so that Brad or others can review the code changes.  Brad will "merge" your pull request with the "master" branch.
+7. Delete your branch
+8. Contact the next person on the list by creating an issue
+
+# Up Next
+Alex Viggio<br/>
+Brad  Weiner<br/> 
+Molly Doyle<br/>
+Seth Spielman<br/>
+Renae Dahiya<br/> 
+Robert Stubbs<br/>
+Sarah Banchefsky<br/>
+Sarah Baumann<br/>
+Frances Costa<br/>
+Vince Darcangelo<br/> 
+Mari Dark<br/>
+Don Elsborg<br/>
+Fanchon Finucane<br/>
+Ulises Guzman Sol<br/>
+Kevin Hemer<br/>
+Vance Howard<br/> 
+Jessica Keating<br/> 
+Harish Kodali<br/>
+Danielle Lyles<br/>
+Amy Nakatani<br/>
+David Ottermann<br/>
+Blake Redabaugh<br/>
+Perry Sailor<br/>
+Peter  Shaffery<br/> 
+Erika Swain<br/>
