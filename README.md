@@ -21,52 +21,9 @@ This repository is designed to teach the use of github for collaboration, commun
 2. Somebody with the handle jbryer crearted a R library for downloading data from IPEDS.  The code is [here](https://github.com/jbryer/ipeds), if you look at the issues you'll see a few people have run into a problems and has asked for help.
 3. I use my personal Github account to share code that I think might be useful to others.  The examples below show projects that have comments, issues, and have been used by other people.  I posted a project for visualing the output from a kind of neural network [here](https://github.com/geoss/som_visualization_r).  That public repository attracted some conversation [here](https://github.com/geoss/som_visualization_r/issues?q=).  At one point recently the code broke and some guy in the Netherlands fixed it.  by clicking on number next to the fork symbol I can see who has been using the code. 
 
+## Do Stuff 
+1. [Exercise 1 involves adding a file to this repository](./exercise-1.md)
+2. [Exercise 2 involves collectively editing a file by creating a branch, submitting a pull request, and creating an issue](./exercise-2.md).  **Do not begin exercise 2 until its your turn, you will recieve a notification to start.**
 
-## Do Stuff - Part 1
-1.  In github desktop create a "clone" of this repository.  This creates a local copy (i.e. on you computer) of the files stored online in github.  To do this use the enter `cu-boulder/shared-skills-git` into github desktop as demonstrated in the video below.
-![demo](./images/clone-using-github-desktop.gif)
-2.  In visual studio code open the folder called `shared-skills-git.`  Navigate to the "your-docs" folder.  Create a new file called "*your-name*.md".  The "md" extenssion stands for markdown which is a simple way to write formatted documents.
-3.  Practice writing some markdown:
-  * Begin your document with the line `# your name`
-  * On the next line write your hometown, place this in italics using the '*' symbol.  For me its, `\*New York, NY\*`
-  * On the next line create a bulleted list of your three favorite foods.  How do you make a bulleted list in markdown?  See a quick tutorial [here](https://guides.github.com/features/mastering-markdown/).
-  * Markdown is really useful, simple editor.  I wrote [an entire book with some friends using Markdown](https://www.amazon.com/Urban-Analytics-Spatial-Gis/dp/1473958636).
-  * For an example see **sethspielman.md** in the folder.
-4. Once you've completed the file, follow the add>committ>push workflow to add it to the online repository.
-
-## Do Stuff - Part 2
-
-1. Clone the github repo
-2. Create a new branch called lastname_firstname (e.g. dylan_bob)
-3. Edit the readme file by 1) answering the questions directly below your name and 2) removing your name from the Up Next List.
-4. Commit and push the changes to personally named branch (e.g. dylan_bob)
-5. Create a pull request so that Brad or others can review the code changes.  Brad will "merge" your pull request with the "master" branch.
-7. Delete your branch
-8. Contact the next person on the list by creating an issue
-
-# Up Next
-Alex Viggio<br/>
-Brad  Weiner<br/> 
-Molly Doyle<br/>
-Seth Spielman<br/>
-Renae Dahiya<br/> 
-Robert Stubbs<br/>
-Sarah Banchefsky<br/>
-Sarah Baumann<br/>
-Frances Costa<br/>
-Vince Darcangelo<br/> 
-Mari Dark<br/>
-Don Elsborg<br/>
-Fanchon Finucane<br/>
-Ulises Guzman Sol<br/>
-Kevin Hemer<br/>
-Vance Howard<br/> 
-Jessica Keating<br/> 
-Harish Kodali<br/>
-Danielle Lyles<br/>
-Amy Nakatani<br/>
-David Ottermann<br/>
-Blake Redabaugh<br/>
-Perry Sailor<br/>
-Peter  Shaffery<br/> 
-Erika Swain<br/>
+### Additional resources
+1.  I created a little youtube video demonstrating how to use GitHub within viual studio [here](https://www.youtube.com/watch?v=Z3zQyQ5JVnU&feature=youtu.be)
