@@ -3,7 +3,7 @@ Learning to use Github for documentation, collaboration, revision and version co
 
 This repository is designed to teach the use of github for collaboration, communication, and documentation.  This class is a combination of a classroom and an asynchronous exercise.
 
-If at any point you need help please rach out to one of the mentors listed [here](./mentors.md).  If you'd like to volunteer as mentor add you name to the list.
+If at any point you need help please reach out to one of the mentors listed [here](./mentors.md).  If you'd like to volunteer as mentor add you name to the list.
 
 ## Setup
 1.  Install Visual Studio Code [here](https://code.visualstudio.com)
