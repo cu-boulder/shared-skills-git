@@ -3,3 +3,4 @@
 * Tuna pops
 * Cherry tostitos
 * Cauliflower smoothies
+* Skittles homefries
