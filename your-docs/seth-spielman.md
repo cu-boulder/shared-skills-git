@@ -2,4 +2,4 @@
 *New York, NY*
 * Oysters
 * Ramen
-* Cheese (all of them)
+* Cheese (all the cheeses)
