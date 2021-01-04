@@ -1,5 +1,5 @@
 # Seth Spielman
 *New York, NY*
 * Oysters
-* Chesse
+* Cheese
 * Cheese (all the cheeses)
