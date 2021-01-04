@@ -1,5 +1,5 @@
 # Brad Weiner
 *Denver, CO*
-* Hot Chicken
+* [Hot Chicken](https://en.wikipedia.org/wiki/Hot_chicken)
 * Tacos
 * Ice Cream
