@@ -11,6 +11,7 @@ If at any point you need help please reach out to one of the mentors listed [her
   * If you are comfortable with typing into a terminal and/or would like to maintain continuity with the DataCamp class you can use a [terminal](https://en.wikipedia.org/wiki/Windows_Terminal).  Instructions for getting setup with the "typing" version of Github are [here](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/quickstart)
 3.  If you have not already done so in the earlier steps sign up for a free Github account here [here](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).  
   * Once you have and account and are actively using Github we can add you to the ODA Organization on Github.  Our public projects are [here](https://github.com/cu-boulder)
+  * Send Seth your github name and he will give you permission to write to the repository.
 
 ## Explore
 1. Explore to get a sense of what of what Github and how its used.  I found a few interesting repositiories:
