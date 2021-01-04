@@ -1,2 +1,5 @@
 # Vance Howard
-*Denver, CO*
+*Boulder, CO*
+* Tuna pops
+* Cherry tostitos
+* Cauliflower smoothies
