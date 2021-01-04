@@ -2,6 +2,6 @@
 
 *Boston, MA*
 
-1. Coffee
-2. Dan Dan Noodles
-3. Tuna Melt
+* Coffee
+* Dan Dan Noodles
+* Tuna Melt
