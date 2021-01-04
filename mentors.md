@@ -5,4 +5,9 @@ Stuck, confused, have questions?  The people listed below have volunteered to he
 * Seth Spielman
 * Brad Weiner
 * Alex Viggo
+<<<<<<< HEAD
+* Vance Howard
 
+=======
+* Don Elsborg
+>>>>>>> f073f760a2fa9fe3def18c36ce9377a8392ed833
