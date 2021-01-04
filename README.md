@@ -20,8 +20,8 @@ If at any point you need help please reach out to one of the mentors listed [her
   * https://github.com/MIT-IR: MIT IR, not much thats useful
   * https://github.com/nietsnel/institutional-research: An older repo explaining the value of R for an IR team
   * https://github.com/owid/covid-19-data/tree/master/public/data COVID-19 Data
-2. Somebody with the handle jbryer crearted a R library for downloading data from IPEDS.  The code is [here](https://github.com/jbryer/ipeds), if you look at the issues you'll see a few people have run into a problems and has asked for help.
-3. I use my personal Github account to share code that I think might be useful to others.  The examples below show projects that have comments, issues, and have been used by other people.  I posted a project for visualing the output from a kind of neural network [here](https://github.com/geoss/som_visualization_r).  That public repository attracted some conversation [here](https://github.com/geoss/som_visualization_r/issues?q=).  At one point recently the code broke and some guy in the Netherlands fixed it.  by clicking on number next to the fork symbol I can see who has been using the code. 
+2. Somebody with the handle jbryer crearted a R library for downloading data from IPEDS.  The code is [here](https://github.com/jbryer/ipeds), if you look at the issues you'll see a few people have run into a problems and have asked for help.
+3. I use my personal Github account to share code that I think might be useful to others.  The examples below show projects that have comments, issues, and have been used by other people.  I posted a project for visualing the output from a kind of neural network [here](https://github.com/geoss/som_visualization_r).  That public repository attracted some conversation [here](https://github.com/geoss/som_visualization_r/issues?q=).  At one point the code broke and some guy in the Netherlands fixed it.  By clicking on number next to the fork symbol one can see who has been using the code. 
 
 ## Do Stuff 
 1. [Exercise 1 involves adding a file to this repository](./exercise-1.md)
