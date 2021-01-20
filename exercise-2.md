@@ -5,7 +5,7 @@ This part of the exercise demonstrates the utility of Github for collectively ed
 
 You will be greating **branches** and using **pull requests** to merge those beanches back into the main branch. 
 
-**Do not begin until you have recieved a notification that its your turn**
+**Do not begin until you have recieved a notification that its your turn!**
 
 1. Make sure your version of the repository is upto date.  In Github desktup 
 2. You will recieve a notification when it is your turn to edit.
