@@ -6,7 +6,7 @@
 * Molly Doyle
 * Renae Dahiya 
 * Robert Stubbs
-* Sarah Banchefsky
+* Sarah Banchefsky [General page on hedgehogs] (https://en.wikipedia.org/wiki/Hedgehog)
 * Sarah Baumann
 * Frances Costa
 * Vince Darcangelo 
