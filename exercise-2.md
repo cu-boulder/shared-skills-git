@@ -18,3 +18,6 @@ You will be greating **branches** and using **pull requests** to merge those bea
 5. GIthub desktop will prompt you to create a pull request.  When you click the button you will be sent to the github website where you create your pull requesr (PR).  When you make a pull request you are asking to merge your branch into the main branch.  A person has to affirmatively accept your changes and "merge" your branch with the "main" branch.  They will also delete your branch. ![a pull request](./images/pr_made_online.png)
 8. Contact the next person on the list by creating an issue and atting them with @githubusername.  Once your've been notified its your turn to edit ourfile. ![an issue](./images/an_issue.png)
 9. The [network graph](https://github.com/cu-boulder/shared-skills-git/network) allows you to visualize the branches and merges. ![network graph](./images/network_graph.png)
+
+
+Ha Ha 
