@@ -2,7 +2,7 @@
 * Seth Spielman [Balloon Syndrome, a disease that causes hedgehogs to inflate](https://en.wikipedia.org/wiki/Balloon_syndrome)
 * Demo Person [I like digestion](https://en.wikipedia.org/wiki/Gastrointestinal_tract)
 * Alex Viggio [Scottish Society for Prevention of Cruelty to Animals](https://en.wikipedia.org/wiki/Scottish_Society_for_Prevention_of_Cruelty_to_Animals)
-* Brad  Weiner 
+* Brad  Weiner [Glasgow, Scotland](https://en.wikipedia.org/wiki/Glasgow) 
 * Molly Doyle
 * Renae Dahiya 
 * Robert Stubbs
