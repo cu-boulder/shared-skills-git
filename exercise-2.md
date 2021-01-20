@@ -5,9 +5,9 @@ This part of the exercise demonstrates the utility of Github for collectively ed
 
 You will be greating **branches** and using **pull requests** to merge those beanches back into the main branch. 
 
-**DO NOT BEGIN THIS EXERCISE UNTIL YOU HAVE RECIEVED A NOTIFACTION THAT IT'S YOUR TURN**
+**Do not begin until you have recieved a notification that its your turn**
 
-1. Make sure your version of the repository is upto date (using either the desktop app or the command line).
+1. Make sure your version of the repository is upto date.  In Github desktup 
 2. You will recieve a notification when it is your turn to edit.
 3. Once its your turn, create a new branch called lastname_firstname (e.g. dylan_bob)
 3. Edit `ourfile.md` file by visting the most recently added wikiprdia page (the link above your name).  Add a wikipedia link next to your name.  However, the page you add must be reachable from the preceeding person's link.  
