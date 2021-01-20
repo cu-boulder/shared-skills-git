@@ -7,3 +7,4 @@ Stuck, confused, have questions?  The people listed below have volunteered to he
 * Alex Viggo
 * Vance Howard
 * Don Elsborg
+* David Ottermann

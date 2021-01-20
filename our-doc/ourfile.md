@@ -1,5 +1,6 @@
 # Our Collectively Edited File
 * Seth Spielman [Balloon Syndrome, a disease that causes hedgehogs to inflate](https://en.wikipedia.org/wiki/Balloon_syndrome)
+* Demo Person I am just a demo person
 * Alex Viggio
 * Brad  Weiner 
 * Molly Doyle
