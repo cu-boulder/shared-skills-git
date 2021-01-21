@@ -5,7 +5,16 @@ This part of the exercise demonstrates the utility of Github for collectively ed
 
 You will be greating **branches** and using **pull requests** to merge those beanches back into the main branch. 
 
-**Do not begin until you have recieved a notification that its your turn!**
+**DO NOT BEGIN THIS EXERCISE UNTIL YOU HAVE RECIEVED A NOTIFACTION THAT IT'S YOUR TURN**
+
+1. Make sure your version of the repository is upto date (using either the desktop app or the command line).
+2. You will recieve a notification when it is your turn to edit.
+3. Once its your turn, create a new branch called lastname_firstname (e.g. dylan_bob)
+3. Edit `ourfile.md` file by visting the most recently added wikiprdia page (the link above your name).  Add a wikipedia link next to your name.  However, the page you add must be reachable from the preceeding person's link.  
+4. Commit and push the changes to personally named branch (e.g. dylan_bob)
+5. Create a pull request so others can review the code changes.  if you change is approved someone will "merge" your pull request with the "master" branch.
+7. Delete your branch
+8. Contact the next person on the list by creating an issue
 
 1. Open the "your-docs" folder in your local version of the repository.  Note the files it contains.
 2.  Navigate to [the online version of the folder](https://github.com/cu-boulder/shared-skills-git/tree/main/your-docs), there are probably files online that in your local version of the filder.  We need to fetch them from github.
@@ -18,6 +27,3 @@ You will be greating **branches** and using **pull requests** to merge those bea
 5. GIthub desktop will prompt you to create a pull request.  When you click the button you will be sent to the github website where you create your pull requesr (PR).  When you make a pull request you are asking to merge your branch into the main branch.  A person has to affirmatively accept your changes and "merge" your branch with the "main" branch.  They will also delete your branch. ![a pull request](./images/pr_made_online.png)
 8. Contact the next person on the list by creating an issue and atting them with @githubusername.  Once your've been notified its your turn to edit ourfile. ![an issue](./images/an_issue.png)
 9. The [network graph](https://github.com/cu-boulder/shared-skills-git/network) allows you to visualize the branches and merges. ![network graph](./images/network_graph.png)
-
-
-Ha Ha 
