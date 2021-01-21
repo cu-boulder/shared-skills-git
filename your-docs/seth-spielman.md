@@ -1,4 +1,4 @@
-# Seth E. Spielman
+# Seth Spielman
 *New York, NY*
 * Oysters
 * Cheese
