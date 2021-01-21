@@ -5,7 +5,7 @@
 * Brad  Weiner [Glasgow, Scotland](https://en.wikipedia.org/wiki/Glasgow) 
 * Sarah Banchefsky [General page on hedgehogs](https://en.wikipedia.org/wiki/Hedgehog)
 * Sarah Baumann [Gymnure (aka moonrat)](https://en.wikipedia.org/wiki/Gymnure)
-* Renae Dahiya 
+* Renae Dahiya [Malay Peninsula](https://en.wikipedia.org/wiki/Malay_Peninsula)
 * Robert Stubbs
 * Frances Costa
 * Vince Darcangelo 
