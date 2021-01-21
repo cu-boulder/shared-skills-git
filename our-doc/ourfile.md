@@ -1,11 +1,12 @@
 # Our Collectively Edited File
 * Seth Spielman [Balloon Syndrome, a disease that causes hedgehogs to inflate](https://en.wikipedia.org/wiki/Balloon_syndrome)
-* Alex Viggio
-* Brad  Weiner 
+* Demo Person [I like digestion](https://en.wikipedia.org/wiki/Gastrointestinal_tract)
+* Alex Viggio [Scottish Society for Prevention of Cruelty to Animals](https://en.wikipedia.org/wiki/Scottish_Society_for_Prevention_of_Cruelty_to_Animals)
+* Brad  Weiner [Glasgow, Scotland](https://en.wikipedia.org/wiki/Glasgow) 
+* Sarah Banchefsky [General page on hedgehogs] (https://en.wikipedia.org/wiki/Hedgehog)
 * Molly Doyle
 * Renae Dahiya 
 * Robert Stubbs
-* Sarah Banchefsky [General page on hedgehogs] (https://en.wikipedia.org/wiki/Hedgehog)
 * Sarah Baumann
 * Frances Costa
 * Vince Darcangelo 
@@ -24,4 +25,4 @@
 * Perry Sailor
 * Peter  Shaffery 
 * Erika Swain
-* 
+
