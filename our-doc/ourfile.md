@@ -5,7 +5,6 @@
 * Brad  Weiner [Glasgow, Scotland](https://en.wikipedia.org/wiki/Glasgow) 
 * Sarah Banchefsky [General page on hedgehogs](https://en.wikipedia.org/wiki/Hedgehog)
 * Sarah Baumann [Gymnure (aka moonrat)](https://en.wikipedia.org/wiki/Gymnure)
-* Molly Doyle
 * Renae Dahiya 
 * Robert Stubbs
 * Frances Costa
@@ -25,4 +24,4 @@
 * Perry Sailor
 * Peter  Shaffery 
 * Erika Swain
-
+* Molly Doyle
