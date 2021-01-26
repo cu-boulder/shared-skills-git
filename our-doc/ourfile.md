@@ -6,7 +6,7 @@
 * Sarah Banchefsky [General page on hedgehogs](https://en.wikipedia.org/wiki/Hedgehog)
 * Sarah Baumann [Gymnure (aka moonrat)](https://en.wikipedia.org/wiki/Gymnure)
 * Renae Dahiya [Malay Peninsula](https://en.wikipedia.org/wiki/Malay_Peninsula)
-* Robert Stubbs
+* Robert Stubbs[Malay Archipelago] (https://en.wikipedia.org/wiki/Malay_Archipelago)
 * Frances Costa
 * Vince Darcangelo 
 * Mari Dark
