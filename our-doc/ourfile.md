@@ -7,7 +7,7 @@
 * Sarah Baumann [Gymnure (aka moonrat)](https://en.wikipedia.org/wiki/Gymnure)
 * Renae Dahiya [Malay Peninsula](https://en.wikipedia.org/wiki/Malay_Peninsula)
 * Robert Stubbs [Malay Archipelago](https://en.wikipedia.org/wiki/Malay_Archipelago)
-* Frances Costa
+* Frances Costa [PapuaNewGuinea](https://en.wikipedia.org/wiki/Papua_New_Guinea)
 * Vince Darcangelo 
 * Mari Dark
 * Don Elsborg
