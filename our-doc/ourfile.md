@@ -11,7 +11,6 @@
 * Vince Darcangelo [Australian Rules Football](https://en.wikipedia.org/wiki/Australian_rules_football)
 * Mari Dark
 * Don Elsborg
-* Fanchon Finucane
 * Ulises Guzman Sol
 * Kevin Hemer
 * Vance Howard 
