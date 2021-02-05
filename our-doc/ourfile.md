@@ -9,7 +9,7 @@
 * Robert Stubbs [Malay Archipelago](https://en.wikipedia.org/wiki/Malay_Archipelago)
 * Frances Costa [PapuaNewGuinea](https://en.wikipedia.org/wiki/Papua_New_Guinea)
 * Vince Darcangelo [Australian Rules Football](https://en.wikipedia.org/wiki/Australian_rules_football)
-* Mari Dark [https://en.wikipedia.org/wiki/Adelaide]
+* Mari Dark [Adelaide](https://en.wikipedia.org/wiki/Adelaide)
 * Don Elsborg
 * Ulises Guzman Sol
 * Kevin Hemer
