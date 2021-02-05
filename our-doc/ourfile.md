@@ -11,11 +11,11 @@
 * Vince Darcangelo [Australian Rules Football](https://en.wikipedia.org/wiki/Australian_rules_football)
 * Mari Dark [Adelaide](https://en.wikipedia.org/wiki/Adelaide)
 * Don Elsborg [List of Australian Nobel laureates](https://en.wikipedia.org/wiki/List_of_Australian_Nobel_laureates#Australian_laureates_by_birthplace)
-* Ulises Guzman Sol
 * Kevin Hemer
 * Vance Howard 
 * Jessica Keating 
 * Harish Kodali
+* Ulises Guzman Sol
 * Danielle Lyles
 * Amy Nakatani
 * David Ottermann
