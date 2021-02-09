@@ -11,7 +11,7 @@
 * Vince Darcangelo [Australian Rules Football](https://en.wikipedia.org/wiki/Australian_rules_football)
 * Mari Dark [Adelaide](https://en.wikipedia.org/wiki/Adelaide)
 * Don Elsborg [List of Australian Nobel laureates](https://en.wikipedia.org/wiki/List_of_Australian_Nobel_laureates#Australian_laureates_by_birthplace)
-* Kevin Hemer
+* Kevin Hemer [Penicillin] (https://en.wikipedia.org/wiki/Penicillin)
 * Vance Howard 
 * Jessica Keating 
 * Harish Kodali
