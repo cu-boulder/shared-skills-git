@@ -12,7 +12,7 @@
 * Mari Dark [Adelaide](https://en.wikipedia.org/wiki/Adelaide)
 * Don Elsborg [List of Australian Nobel laureates](https://en.wikipedia.org/wiki/List_of_Australian_Nobel_laureates#Australian_laureates_by_birthplace)
 * Kevin Hemer [Penicillin](https://en.wikipedia.org/wiki/Penicillin)
-* Vance Howard 
+* Vance Howard [Dorothy Hodgkin](https://en.wikipedia.org/wiki/Dorothy_Hodgkin)
 * Jessica Keating 
 * Harish Kodali
 * Ulises Guzman Sol
