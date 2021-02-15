@@ -14,7 +14,7 @@
 * Kevin Hemer [Penicillin](https://en.wikipedia.org/wiki/Penicillin)
 * Vance Howard [Dorothy Hodgkin](https://en.wikipedia.org/wiki/Dorothy_Hodgkin)
 * Jessica Keating [Romanian Revolution of 1989](https://en.wikipedia.org/wiki/Romanian_Revolution)
-* Harish Kodali
+* Harish Kodali [List of Cricket World Cup finals](https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals)
 * Ulises Guzman Sol
 * Danielle Lyles
 * Amy Nakatani
