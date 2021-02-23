@@ -17,7 +17,7 @@
 * Harish Kodali [List of Cricket World Cup finals](https://en.wikipedia.org/wiki/List_of_Cricket_World_Cup_finals)
 * Ulises Guzman Sol [My hometown](http://www.microrregiones.gob.mx/zap/datGenerales.aspx?entra=nacion&ent=07&mun=102)
 * Amy Nakatani [Microunit Regions Home page](http://www.microrregiones.gob.mx/zap/Default.aspx)
-* Danielle Lyles
+* Danielle Lyles [Gambler's Fallacy](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
 * David Ottermann
 * Blake Redabaugh
 * Perry Sailor
