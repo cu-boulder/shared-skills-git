@@ -18,7 +18,7 @@
 * Ulises Guzman Sol [My hometown](http://www.microrregiones.gob.mx/zap/datGenerales.aspx?entra=nacion&ent=07&mun=102)
 * Amy Nakatani [Microunit Regions Home page](http://www.microrregiones.gob.mx/zap/Default.aspx)
 * Danielle Lyles [Gambler's Fallacy](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
-* David Ottermann
+* David Ottermann [Newton of France](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
 * Blake Redabaugh
 * Perry Sailor
 * Peter  Shaffery 
