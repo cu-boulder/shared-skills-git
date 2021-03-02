@@ -19,7 +19,7 @@
 * Amy Nakatani [Microunit Regions Home page](http://www.microrregiones.gob.mx/zap/Default.aspx)
 * Danielle Lyles [Gambler's Fallacy](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
 * David Ottermann [Newton of France](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
-* Blake Redabaugh
+* Blake Redabaugh [Ethanol] (https://en.wikipedia.org/wiki/Ethanol)
 * Perry Sailor
 * Peter  Shaffery 
 * Erika Swain
