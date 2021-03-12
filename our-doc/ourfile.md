@@ -20,7 +20,7 @@
 * Danielle Lyles [Gambler's Fallacy](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
 * David Ottermann [Newton of France](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
 * Blake Redabaugh [Ethanol](https://en.wikipedia.org/wiki/Ethanol)
-* Perry Sailor [Organic Compound] (https://en.wikipedia.org/wiki/Organic_compound)
+* Perry Sailor [Organic Compound](https://en.wikipedia.org/wiki/Organic_compound)
 * Peter  Shaffery 
 * Erika Swain
 * Molly Doyle
